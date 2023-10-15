@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_10_SpringWithMaven" />
+    <file type="web" url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_11_SpringDataJPA" />
+    <file type="web" url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_12_Model_Mapper/_12_Model_Mapper" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../_02_SpringBeanLifeCycle/_02_SpringBeanLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/../_03_DI_with_Spring/_03_DI_with_Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_04_FullModeVsLightMode/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_05-Configurations/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_06_RuntimeValueInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_07_SpringEnvironment/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_08_Spring_MVC/_08_Spring_MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_09_RestControllers/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_10_SpringWithMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_Front_End/_11_Front_End/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_11_SpringDataJPA/pom.xml" />
+        <option value="$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_12_Model_Mapper/_12_Model_Mapper/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

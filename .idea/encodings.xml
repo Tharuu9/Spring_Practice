@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_02_SpringBeanLifeCycle/_02_SpringBeanLifeCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_02_SpringBeanLifeCycle/_02_SpringBeanLifeCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_03_DI_with_Spring/_03_DI_with_Spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_03_DI_with_Spring/_03_DI_with_Spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_04_FullModeVsLightMode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_04_FullModeVsLightMode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_05-Configurations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_05-Configurations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_06_RuntimeValueInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_06_RuntimeValueInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_07_SpringEnvironment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_07_SpringEnvironment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_08_Spring_MVC/_08_Spring_MVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_08_Spring_MVC/_08_Spring_MVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_09_RestControllers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_09_RestControllers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_10_SpringWithMaven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_10_SpringWithMaven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_Front_End/_11_Front_End/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_Front_End/_11_Front_End/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_11_SpringDataJPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_11_SpringDataJPA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_12_Model_Mapper/_12_Model_Mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../_04_FullModeVsLightMode/_05-Configurations/_06_RuntimeValueInjection/_07_SpringEnvironment/_09_RestControllers/_10_SpringWithMaven/_11_SpringDataJPA/_12_Model_Mapper/_12_Model_Mapper/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

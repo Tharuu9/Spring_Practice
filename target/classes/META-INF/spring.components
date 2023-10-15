@@ -1,0 +1,4 @@
+bean.BeanFour=org.springframework.stereotype.Component
+bean.BeanOne=org.springframework.stereotype.Component
+bean.BeanThree=org.springframework.stereotype.Component
+config.AppConfig=org.springframework.stereotype.Component
